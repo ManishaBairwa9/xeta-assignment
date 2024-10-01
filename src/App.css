@@ -1,0 +1,20 @@
+.custom-curve {
+    background-color: white;
+    width: 100%;
+    height: 100px;
+    position: relative;
+    margin-top: -50px;
+  }
+  
+  .custom-curve::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+    border-top-left-radius: 100% 100px;
+    border-top-right-radius: 100% 100px;
+    top: -50px;
+    left: 0;
+  }
+  
