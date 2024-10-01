@@ -62,10 +62,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [bairwamanisha972@gmail.com](mailto:bairwamanisha972@gmail.com)
 
-Project Link: [https://github.com/your-username/fitsnap-landing-page](https://github.com/your-username/fitsnap-landing-page)
-
+Project Link: [[https://github.com/your-username/fitsnap-landing-page](https://github.com/ManishaBairwa9/xeta-assignment/)]
 ## Acknowledgements
 
 - [Vite](https://vitejs.dev/)
